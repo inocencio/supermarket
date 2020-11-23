@@ -107,3 +107,27 @@ A product with discount has a different look and info:
 Users can add products to the cart and see the prices in progress.
 
 ![cart](https://github.com/inocencio/supermarket/blob/main/screens/05.png)
+
+### Follow-up Questions
+
+**1. How long did you spend on the test?**
+
+Disregarding the hours, something like two weeks.
+
+**2. What would you add if you had more time?**
+
+To make it a proffessional application ready to use by final user I'll change the session system to Passport and use some DB implementation SQL or Non-SQL databases. Of course we need more touches to make it professional beyond that.
+
+**3. How would you improve the product APIs that you had to consume?**
+
+I wasn't sure if the product discounts could be on the same 'table' as the products, so I created an extra table that, at runtime makes the necessary 'joins' to present everything as a single product.
+
+For a real scenario, you could count how many visits are paid for each registered product and one for purchased products. We can use this information to show up a general wish list
+
+**4. What did you find most difficult?**
+
+I have a previous experience with Node.js and Express.js, however this was my first time dealing with Vue.js. I'm used to work with jQuery and other old frameworks, but with Vue.js was a little bit challenged and fun. I liked the manner it organize the screen execution order and make it clear what and where the codes go.
+
+**5. How did you find the overall experience, any feedback for us?**
+
+I'm OK with that. It was fun after all. I just felt a little bit confusing with some document requirements and I did some questions.
