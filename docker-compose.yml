@@ -1,0 +1,16 @@
+version: "3.7"
+services:
+
+  app:
+    container_name: app
+    build: ./app
+    ports:
+      - 3000:3000
+
+  ui:
+    container_name: ui
+    build: ./ui
+    stdin_open: true
+    tty: true
+    ports:
+      - 8080:8080
