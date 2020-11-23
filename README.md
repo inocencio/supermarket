@@ -86,24 +86,24 @@ $ npm run test
 
 Once installed and running, if you already have Docker Desktop, you can have a screen alike that:
 
-![docker desktop](https://github.com/inocencio/supermarket/blob/master/screens/d04.png)
+![docker desktop](https://github.com/inocencio/supermarket/blob/main/screens/d04.png)
 
 First time in app, you'll get a screen like this:
 
-![first screen](https://github.com/inocencio/supermarket/blob/master/screens/01.png)
+![first screen](https://github.com/inocencio/supermarket/blob/main/screens/01.png)
 
 There are two profiles of registered users. Both interact with the application, but only the admin can register and change the products.
 
-![login screen](https://github.com/inocencio/supermarket/blob/master/screens/02.png)
+![login screen](https://github.com/inocencio/supermarket/blob/main/screens/02.png)
 
 As admin I can add or edit a product.
 
-![login screen](https://github.com/inocencio/supermarket/blob/master/screens/03.png)
+![login screen](https://github.com/inocencio/supermarket/blob/main/screens/03.png)
 
 A product with discount has a different look and info:
 
-![a new product with discount](https://github.com/inocencio/supermarket/blob/master/screens/04.png)
+![a new product with discount](https://github.com/inocencio/supermarket/blob/main/screens/04.png)
 
 Users can add products to the cart and see the prices in progress.
 
-![cart](https://github.com/inocencio/supermarket/blob/master/screens/05.png)
+![cart](https://github.com/inocencio/supermarket/blob/main/screens/05.png)
